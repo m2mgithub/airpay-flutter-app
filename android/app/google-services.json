@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723579587687",
+    "project_id": "airpay-app",
+    "storage_bucket": "airpay-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723579587687:android:d49c542dbc1770c20298c2",
+        "android_client_info": {
+          "package_name": "com.example.airpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723579587687-gofsqd8rjsisth6ptiet0n3tjm625l8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrsZ-ylgudRTghWYAQsc-Q9NByVz0uJ-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723579587687-gofsqd8rjsisth6ptiet0n3tjm625l8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
